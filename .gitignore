@@ -1,5 +1,14 @@
 
 mp_env_clean/
+mp_env/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+mp_env/
+mp_env_clean/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.whl
+*.pyd
