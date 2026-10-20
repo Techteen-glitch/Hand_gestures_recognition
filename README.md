@@ -3,7 +3,8 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 A real-time webcam application that recognizes hand poses using MediaPipe and TensorFlow Lite. Most of the hand-tracking and classifier implementation is from [Kazuhito00's hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe). This fork adds the **Rock n roll** gesture and includes custom gesture-sequence action handling.
-![Uploading image.png…]()
+<img width="1263" height="722" alt="image" src="https://github.com/user-attachments/assets/f242bd5a-c5eb-4056-9676-eddc2f6ceb50" />
+
 
 
 ## Features
